@@ -1,0 +1,6 @@
+{
+  "name": "CycloneShield AI",
+  "description": "AI-Powered Cyclone Impact & Infrastructure Vulnerability Forecaster for emergency management and disaster resilience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
